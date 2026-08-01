@@ -1,3 +1,4 @@
+
 <p align="center">
   <a href="https://github.com/monatazarine">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5F2E9E&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Mouna" alt="Hello! I&#39;m Mouna" />
@@ -15,18 +16,17 @@
 
 <br />
 
-###  Who's This
+###  ✦ Who's This
 
 A full-stack developer who likes taking an idea from an empty file to something people actually click on and genuinely enjoys the part where nothing works yet.
 
 - **Based in:** wherever the WiFi is stable
 - **Pronouns:** she/her
-- **Currently into:** cleaner state management, faster build tools, and readme's that don't look like a resume.
 - **Open to:** collaborating on something interesting 
 
 <br />
 
-###  Toolbox
+###  ✦ Toolbox
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -84,7 +84,7 @@ A full-stack developer who likes taking an idea from an empty file to something 
 <br />
 
 
-###  By the Numbers
+###  ✦ By the Numbers
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=monatazarine&show_icons=true&theme=tokyonight&title_color=5F2E9E&icon_color=5F2E9E&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
@@ -94,19 +94,19 @@ A full-stack developer who likes taking an idea from an empty file to something 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=monatazarine&theme=tokyonight&hide_border=true&background=00000000&ring=A371F7&fire=A371F7&currStreakLabel=A371F7" alt="streak stats" />
 </p>
 
-### Contribution Graph
+### ✦ Contribution Graph
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=monatazarine&bg_color=00000000&color=5F2E9E&line=5F2E9E&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### Words to Code By
+### ✦ Words to Code By
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
-###  Let's Talk
+###  ✦ Let's Talk
 
 <p align="center">
   <a href="mailto:monatazarine@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
