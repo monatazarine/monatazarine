@@ -17,12 +17,12 @@
 
 ###  Who's This
 
-A full-stack developer who likes taking an idea from an empty file to something people actually click on. Comfortable moving between a Laravel backend, a React or Vue frontend, and whatever database is holding it all together — and genuinely enjoys the part where nothing works yet.
+A full-stack developer who likes taking an idea from an empty file to something people actually click on and genuinely enjoys the part where nothing works yet.
 
 - **Based in:** wherever the WiFi is stable
 - **Pronouns:** she/her
 - **Currently into:** cleaner state management, faster build tools, and readme's that don't look like a resume.
-- **Open to:** collaborating on something interesting — reach out
+- **Open to:** collaborating on something interesting 
 
 <br />
 
